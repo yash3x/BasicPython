@@ -2,7 +2,6 @@
 name = input('Enter the name please:')
 print(name)
 
-
 if name == "yash":
     print("whats up yash")
 elif name == "lucy":
@@ -11,6 +10,8 @@ elif name == "joe":
     print("whatup joe")
 elif name == "arun":
     print("what up arun")
+elif name == "Aravind":
+    print("what up Aravind")
 else:
     print("Please signup")
 # why didn't it work?
